@@ -91,4 +91,4 @@ The [Web Speech API repo](https://github.com/mdn/web-speech-api/) on GitHub cont
 - [Using the Web Speech API](/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API)
 - [SitePoint article](https://www.sitepoint.com/talking-web-pages-and-the-speech-synthesis-api/)
 - [HTML5Rocks article](https://developer.chrome.com/blog/web-apps-that-talk-introduction-to-the-speech-synthesis-api/)
-- [Demo](https://aurelio.audero.it/demo/speech-synthesis-api-demo.html) \[aurelio.audero.it]
+- [Demo](https://mdn.github.io/web-speech-api/speak-easy-synthesis/index.html) \[mdn.github.io]
